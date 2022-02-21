@@ -17,3 +17,6 @@ Part 3: Selecting and classifiying image Once you enter the app you will be gree
 Closing remarks I plan on properly finshing the app at a later point.
 
 Thank you
+
+
+To Professor Choudhury, I ran into an issue where my app didn't look like the example it currenly has a "night theme" on it. I hope that is ok
